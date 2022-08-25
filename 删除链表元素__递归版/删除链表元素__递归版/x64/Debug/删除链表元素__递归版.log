@@ -1,0 +1,9 @@
+﻿  ListNode.cpp
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.cpp(4,1): error C2084: 函数“ListNode::ListNode(void)”已有主体
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.h(8): message : 参见“{ctor}”的前一个定义
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.cpp(9,1): error C2084: 函数“ListNode::ListNode(int)”已有主体
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.h(9): message : 参见“{ctor}”的前一个定义
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.cpp(14,1): error C2084: 函数“ListNode::ListNode(int,ListNode *)”已有主体
+E:\算法与数据结构\删除链表元素__递归版\删除链表元素__递归版\ListNode.h(10): message : 参见“{ctor}”的前一个定义
+  源.cpp
+  正在生成代码...
